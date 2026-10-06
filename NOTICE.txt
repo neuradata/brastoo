@@ -1,0 +1,21 @@
+Brastoo
+
+Brastoo is a modified version of Vorssaint
+(https://github.com/vorssaint/vorssaint-utils), Copyright (C) 2026 Vorssaint.
+It was modified in 2026; each source file carries its own copyright notice.
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+The license is in LICENSE.txt, beside this file.
+
+The source code of this version, with the scripts that build it, is in
+Brastoo-source.zip, beside this file. The file transfer engine (sendme) is a
+separate program under its own licenses, which are in the ThirdParty folder;
+Tools/fetch-transfer-engine.sh in the source downloads it.
